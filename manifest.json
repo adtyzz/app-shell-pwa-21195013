@@ -1,0 +1,39 @@
+{
+  "short_name": "App Shell",
+  "name": "Uxos",
+  "description": "Uxoss Website",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#CCCCCC",
+  "theme_color": "#CCCCCC",
+  "gcm_sender_id": "40268641906",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/images/icon_144.png",
+      "sizes": "144x144",
+      "type": "images/png"
+    },
+    {
+      "src": "/images/icon_192.png",
+      "sizes": "192x192",
+      "type": "images/png"
+    },
+    {
+      "src": "/images/icon_196.png",
+      "sizes": "196x196",
+      "type": "images/png"
+    },
+    {
+      "src": "/images/icon_512.png",
+      "sizes": "512x512",
+      "type": "images/png"
+    },
+    {
+      "src": "/images/icon_maskable.png",
+      "sizes": "196x196",
+      "type": "images/png",
+      "purpose": "maskable"
+    }
+  ]
+}
